@@ -1,0 +1,3 @@
+java -jar build/libs/your_project_name.jar -i -a out.txt in1.txt in2.txt in3.txt
+Система сборки: Maven (версия 4.0.0)
+Версия Java: v17
